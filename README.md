@@ -1,5 +1,13 @@
 # NovaChain
+<p align="center">
+  <img src="logo.png" width="220" alt="NovaChain Logo">
+</p>
 
+<h1 align="center">NovaChain</h1>
+
+<p align="center">
+Building the Future of Web3, Together.
+</p>
 Building the Future of Web3, Together.
 
 NovaChain is a community-driven Web3 project built on The Open Network (TON), focused on transparency, long-term sustainability, and ecosystem growth.
