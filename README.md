@@ -1,11 +1,7 @@
 # NovaChain
 <p align="center">
-  <img src="logo.png" width="220" alt="NovaChain Logo">
+  <img src="Logo.png" alt="NovaChain Logo" width="220">
 </p>
-
-<h1 align="center">NovaChain</h1>
-
-<p align="center">
 Building the Future of Web3, Together.
 </p>
 Building the Future of Web3, Together.
