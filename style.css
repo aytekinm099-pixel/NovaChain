@@ -746,3 +746,35 @@ img{
 }
 
 }
+   nav {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+nav ul {
+    display: none;
+}
+
+.hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 70px 20px;
+}
+
+.hero-content {
+    width: 100%;
+}
+
+.hero-image {
+    width: 75%;
+    margin: 30px auto 0;
+}
+
+.hero h1 {
+    font-size: 2.2rem;
+    line-height: 1.2;
+}
+
+.hero p {
+    font-size: 1rem;
+}
