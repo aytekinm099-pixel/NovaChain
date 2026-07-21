@@ -1,1 +1,111 @@
+/* ===== NovaChain Global ===== */
 
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:'Poppins',sans-serif;
+background:#050816;
+color:#ffffff;
+overflow-x:hidden;
+}
+
+/* ===== Hero ===== */
+
+.hero{
+min-height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+padding:40px 8%;
+background:
+radial-gradient(circle at top,#1b5cff33,transparent 45%),
+linear-gradient(180deg,#050816,#08111f);
+}
+
+/* ===== Navigation ===== */
+
+nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:80px;
+}
+
+.logo{
+font-size:34px;
+font-family:'Orbitron',sans-serif;
+font-weight:800;
+color:#2ea8ff;
+text-shadow:0 0 20px #2ea8ff;
+}
+
+nav ul{
+display:flex;
+gap:30px;
+list-style:none;
+}
+
+nav li{
+cursor:pointer;
+transition:.3s;
+}
+
+nav li:hover{
+color:#2ea8ff;
+}
+
+/* ===== Hero Text ===== */
+
+.hero-content h1{
+font-size:70px;
+line-height:1.1;
+margin-bottom:25px;
+max-width:850px;
+}
+
+.hero-content span{
+color:#2ea8ff;
+}
+
+.hero-content p{
+font-size:22px;
+max-width:650px;
+color:#c8d2e4;
+line-height:1.8;
+margin-bottom:45px;
+}
+
+/* ===== Buttons ===== */
+
+.buttons{
+display:flex;
+gap:20px;
+flex-wrap:wrap;
+}
+
+.buttons a{
+padding:16px 36px;
+border-radius:12px;
+text-decoration:none;
+font-weight:600;
+transition:.3s;
+}
+
+.buttons a:first-child{
+background:#2ea8ff;
+color:#fff;
+}
+
+.buttons a:last-child{
+border:2px solid #2ea8ff;
+color:#2ea8ff;
+}
+
+.buttons a:hover{
+transform:translateY(-4px);
+box-shadow:0 0 25px #2ea8ff;
+}
